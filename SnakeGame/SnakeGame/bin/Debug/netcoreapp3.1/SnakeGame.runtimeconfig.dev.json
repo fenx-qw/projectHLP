@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Delta-Game\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Delta-Game\\.nuget\\packages"
+    ]
+  }
+}
